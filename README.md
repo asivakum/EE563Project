@@ -24,3 +24,6 @@ how to test
 -----
 1. download MNIST dataset http://yann.lecun.com/exdb/mnist/
 2. run program
+=======
+EE563Project
+============
